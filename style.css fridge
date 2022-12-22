@@ -1,0 +1,13 @@
+.status
+{
+    font-size=20px;
+    background color=blue;
+    text-color=white;
+}
+.img
+{
+    width=100px;
+    height=100px;
+    broder=curved;
+    radicus=10px;
+}
